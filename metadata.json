@@ -1,0 +1,10 @@
+{
+  "name": "KINETIX - Closed-Loop Rehabilitation Intelligence",
+  "description": "AI-Powered Closed-Loop Rehabilitation Intelligence platform for biomechanical pose analysis, real-time error correction, movement DNA, and therapist copilot support.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
